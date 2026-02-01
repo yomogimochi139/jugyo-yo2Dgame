@@ -17,6 +17,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TrueScene1.unity
     guid: 5cf8dc439133d254cbaf61fd93d39a47
+  - enabled: 1
+    path: Assets/Scenes/2ndOsu.unity
+    guid: 167a89d849c5ede46b1b02712af59b4c
+  - enabled: 1
+    path: Assets/Scenes/FalseScene2.unity
+    guid: 2af3182ec8560f54ca61e285b93a3731
+  - enabled: 1
+    path: Assets/Scenes/TrueScene2.unity
+    guid: 4fcd633b95123ca43be5c644b571f5a1
+  - enabled: 1
+    path: Assets/Scenes/3rdOsu.unity
+    guid: 0ef74a5d805480d4e87ae2711b1d70f3
+  - enabled: 1
+    path: Assets/Scenes/FalseScene3.unity
+    guid: b52668fa975cf1e4b92e4817a63a0fb8
+  - enabled: 1
+    path: Assets/Scenes/TrueScene3.unity
+    guid: 2764c878cd35fdb43999888fc0e9b4cd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

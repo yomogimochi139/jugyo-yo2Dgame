@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class SceneChanger1 : MonoBehaviour
+public class SceneChanger2 : MonoBehaviour
 {
     // インスペクターで設定するImageのリスト
     [SerializeField] private GameObject imageA;
@@ -13,13 +13,13 @@ public class SceneChanger1 : MonoBehaviour
     {
         if (imageA.activeSelf)
         {
-            // imageAがアクティブならFalseScene1へ
-            SceneManager.LoadScene("FalseScene1");
+            // imageAがアクティブならTrueScene3へ
+            SceneManager.LoadScene("TrueScene3");
         }
         else if (imageB.activeSelf)
         {
-            // imageBがアクティブならTrueScene1へ
-            SceneManager.LoadScene("TrueScene1");
+            // imageBがアクティブならFalseScene3へ
+            SceneManager.LoadScene("FalseScene3");
         }
         else
         {

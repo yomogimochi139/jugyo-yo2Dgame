@@ -232,7 +232,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -170}
+  m_AnchoredPosition: {x: -55, y: -202}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &725974417
@@ -255,7 +255,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u30AA\u30B9\u306E\u80CC\u3073\u308C\u306B\u306F\u5207\u308C\u8FBC\u307F\u304C\u3042\u308A\u3001\u5C3B\u3073\u308C\u306F\u5E73\u884C\u56DB\u8FBA\u5F62\u306E\u3088\u3046\u306B\u5927\u304D\u3044\u3067\u3059\u3002"
+  m_text: "\u30C8\u30CA\u30AB\u30A4\u306F\u30B7\u30AB\u79D1\u3067\u552F\u4E00\u3001\u30AA\u30B9\u3082\u30E1\u30B9\u3082\u89D2\u304C\u751F\u3048\u307E\u3059\u3002
+    \u51AC\u306B\u89D2\u304C\u3042\u308B\u306E\u306F\u5B9F\u306F\u30E1\u30B9\u3067\u30AA\u30B9\u306F\u79CB\u306B\u89D2\u304C\u8131\u843D\u3057\u307E\u3059\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 364e6ce6f2412c944bc46221f397bea4, type: 2}
   m_sharedMaterial: {fileID: -7234399140521027600, guid: 364e6ce6f2412c944bc46221f397bea4, type: 2}
@@ -320,7 +321,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -625.85724, y: 0, z: -602.46045, w: 0}
+  m_margin: {x: -625.85724, y: 0, z: -672.65015, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -480,7 +481,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa649506b89d32544bd2111f167589d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _loadScene: 2ndOsu
+  _loadScene: 3rdOsu
 --- !u!1 &1056544791
 GameObject:
   m_ObjectHideFlags: 0
