@@ -481,7 +481,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa649506b89d32544bd2111f167589d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _loadScene: 3rdOsu
+  _loadScene: 4thOsu
 --- !u!1 &1056544791
 GameObject:
   m_ObjectHideFlags: 0
